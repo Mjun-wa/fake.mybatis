@@ -1,4 +1,4 @@
-package mjun.fake.mybatis;
+package mjun.fake.mybatis.binding;
 
 import java.io.Serial;
 import java.io.Serializable;

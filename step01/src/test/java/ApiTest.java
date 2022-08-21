@@ -1,4 +1,4 @@
-import mjun.fake.mybatis.MapperProxyFactory;
+import mjun.fake.mybatis.binding.MapperProxyFactory;
 import mjun.fake.mybatis.dao.IUserDao;
 import org.junit.Test;
 import org.slf4j.Logger;

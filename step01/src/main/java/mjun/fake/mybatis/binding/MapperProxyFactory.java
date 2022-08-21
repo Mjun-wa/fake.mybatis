@@ -1,4 +1,4 @@
-package mjun.fake.mybatis;
+package mjun.fake.mybatis.binding;
 
 import java.lang.reflect.Proxy;
 import java.util.Map;
